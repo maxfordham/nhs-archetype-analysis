@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-12-04T15:55:14.461191Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-04T15:54:33.209380Z",
+      "mimetype": null,
+      "name": "demo.ipynb",
+      "path": "demo.ipynb",
+      "size": 12603,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-12-04T15:55:14.469191Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-04T15:54:33.233380Z",
+      "mimetype": "text/csv",
+      "name": "indicators.csv",
+      "path": "indicators.csv",
+      "size": 6162763,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-12-04T15:55:14.461191Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-12-04T15:55:14.461191Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
