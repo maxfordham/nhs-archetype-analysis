@@ -72,6 +72,13 @@
             "filename": "widgetsnbextension-4.0.13-pyhd8ed1ab_1.tar.gz"
         },
         {
+            "name": "pickleshare",
+            "version": "0.7.5",
+            "build": "pyhd8ed1ab_1004",
+            "filename_stem": "pickleshare-0.7.5-pyhd8ed1ab_1004",
+            "filename": "pickleshare-0.7.5-pyhd8ed1ab_1004.tar.gz"
+        },
+        {
             "name": "parso",
             "version": "0.8.4",
             "build": "pyhd8ed1ab_1",
@@ -126,13 +133,6 @@
             "build": "pyhd8ed1ab_1",
             "filename_stem": "pygments-2.18.0-pyhd8ed1ab_1",
             "filename": "pygments-2.18.0-pyhd8ed1ab_1.tar.gz"
-        },
-        {
-            "name": "pickleshare",
-            "version": "0.7.5",
-            "build": "py_1003",
-            "filename_stem": "pickleshare-0.7.5-py_1003",
-            "filename": "pickleshare-0.7.5-py_1003.tar.gz"
         },
         {
             "name": "python",
