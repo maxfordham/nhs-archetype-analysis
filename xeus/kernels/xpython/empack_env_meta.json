@@ -11,9 +11,9 @@
         {
             "name": "traitlets",
             "version": "5.14.3",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "traitlets-5.14.3-pyhd8ed1ab_0",
-            "filename": "traitlets-5.14.3-pyhd8ed1ab_0.tar.gz"
+            "build": "pyhd8ed1ab_1",
+            "filename_stem": "traitlets-5.14.3-pyhd8ed1ab_1",
+            "filename": "traitlets-5.14.3-pyhd8ed1ab_1.tar.gz"
         },
         {
             "name": "bqplot",
@@ -163,13 +163,6 @@
             "filename": "backcall-0.2.0-pyh9f0ad1d_0.tar.gz"
         },
         {
-            "name": "six",
-            "version": "1.16.0",
-            "build": "pyhd8ed1ab_1",
-            "filename_stem": "six-1.16.0-pyhd8ed1ab_1",
-            "filename": "six-1.16.0-pyhd8ed1ab_1.tar.gz"
-        },
-        {
             "name": "pexpect",
             "version": "4.9.0",
             "build": "pyhd8ed1ab_1",
@@ -245,6 +238,13 @@
             "build": "h73c07d9_0",
             "filename_stem": "xeus-python-0.17.2-h73c07d9_0",
             "filename": "xeus-python-0.17.2-h73c07d9_0.tar.gz"
+        },
+        {
+            "name": "six",
+            "version": "1.17.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "six-1.17.0-pyhd8ed1ab_0",
+            "filename": "six-1.17.0-pyhd8ed1ab_0.tar.gz"
         },
         {
             "name": "ptyprocess",
